@@ -12,21 +12,17 @@ I'm a Third-year Computer Engineering student with a burning passion for bridgin
     - **Open Source**:  🤝  Giving back to the community and working on collaborative projects.
 - 🤖 I'm an active **Open Source Contributor**, particularly within the **Meshery community**! (Check out Meshery:  [<img src="https://docs.meshery.io/assets/img/meshery/icon-only/meshery-logo-light.svg" width="20" height="20"> Meshery](https://meshery.io/))
 - 💡 My key areas of interest include: **AI, Cloud Technologies, API Security, and Kubernetes**.
-- 🎓 Aspiring **Software Development Engineer** | **Final Year Computer Engineering Student**
-- 🏆 Proud member of:
+- 🎓 Aspiring **Software Development Engineer**
     - **Google cloud Developer Groups (GDG)** 
     - **FOSS Community**
     - **Microsoft Learn Student Ambassadors**  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Student_Partner_logo.svg/1280px-Microsoft_Student_Partner_logo.svg.png" width="30">
     - College Tech Clubs 🚀
 - 💬 Ask me about anything related to **AI, ML, Cloud Computing, API Security, and Open Source Contributions!**
 - 📫 Reach me at: **[LinkedIn](http://www.linkedin.com/in/aman-mogal-b7773b246)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I developed **Cipher API**, a tool for API security and management! 🔐
-
 ---This shows my commitment to consistent coding. A streak represents consecutive days of contributing to GitHub.
 
-### ⚡ Activity Graph: A Visual History
-<!-- Use single backticks (`) to make this a code block to prevent Jekyll interpretation -->
+
+![alt text](https://github-readme-streak-stats.herokuapp.com?user=amanmogal&theme=radical&fire=F05F40&ring=FB8C00)
 
 ## 📊 GitHub Stats & Contributions: The Numbers Don't Lie
 
@@ -35,6 +31,13 @@ These stats dynamically update, showcasing my activity and contributions on GitH
 
 
 ### 🔥 Streak Stats: Keeping the Fire Burning
+ ![alt text](https://github-readme-stats.vercel.app/api?username=amanmogal&show_icons=true&theme=radical&count_private=true)
+
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmogal&layout=compact&theme=radical&langs_cou
+
+### ⚡ Activity Graph: A Visual History
+
+![alt text](https://github-readme-activity-graph.vercel.app/graph?username=amanmogal&theme=react-dark&bg_color=282C34&color
 
 
 This graph visually represents my contributions over time, showing the intensity and frequency of my activity. I've customized the colors to be a bit more appealing.
@@ -50,7 +53,6 @@ Here's a breakdown of the technologies I work with regularly, categorized for cl
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 
