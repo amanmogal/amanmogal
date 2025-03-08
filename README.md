@@ -14,7 +14,7 @@ I'm a Third-year Computer Engineering student with a burning passion for bridgin
 - 💡 My key areas of interest include: **AI, Cloud Technologies, API Security, and Kubernetes**.
 - 🎓 Aspiring **Software Development Engineer** | **Final Year Computer Engineering Student**
 - 🏆 Proud member of:
-    - **Google Developer Groups (GDG)** 
+    - **Google cloud Developer Groups (GDG)** 
     - **FOSS Community**
     - **Microsoft Learn Student Ambassadors**  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Student_Partner_logo.svg/1280px-Microsoft_Student_Partner_logo.svg.png" width="30">
     - College Tech Clubs 🚀
