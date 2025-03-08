@@ -2,7 +2,7 @@
 
 ## 🚀 About Me: The Cloud-Native AI Enthusiast
 
-I'm a Third-year Computer Engineering student with a burning passion for bridging the gap between AI, Cloud Technologies, and secure application development. I thrive on building, learning, and contributing to the open-source community.  I'm on a mission to become a Software Development Engineer, leveraging cutting-edge technologies to create impactful solutions.
+I'm a Third-year Computer Engineering student with a burning passion for bridging the gap between AI, Cloud Technologies, and secure application development. I thrive on building, learning, and contributing to the open-source community.  I'm on a mission to become a Software Engineer, leveraging cutting-edge technologies to create impactful solutions.
 
 - 🔭 I'm currently working on **SafeScape**: A smart emergency app focused on cloud security and compliance monitoring. Think proactive defense against cloud vulnerabilities! 🛡️
 - 🌱 I'm currently diving deep into **AutoML, Kubernetes, and Cloud Security**. Constantly expanding my knowledge in these rapidly evolving fields. 📚
