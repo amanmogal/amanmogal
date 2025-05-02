@@ -12,11 +12,11 @@ I'm a Third-year Computer Engineering student with a burning passion for bridgin
     - **Open Source**:  🤝  Giving back to the community and working on collaborative projects.
 - 🤖 I'm an active **Open Source Contributor**, particularly within the **Meshery community**! (Check out Meshery:  [<img src="https://docs.meshery.io/assets/img/meshery/icon-only/meshery-logo-light.svg" width="20" height="20"> Meshery](https://meshery.io/))
 - 💡 My key areas of interest include: **AI, Cloud Technologies, API Security, and Kubernetes**.
-- 🎓 Aspiring **Software Development Engineer**
-    - **Google cloud Developer Groups (GDG)** 
+- 🎓 Part of Communities**
+    - **Postman Community**
     - **FOSS Community**
     - **Microsoft Learn Student Ambassadors**  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Student_Partner_logo.svg/1280px-Microsoft_Student_Partner_logo.svg.png" width="30">
-    - College Tech Clubs 🚀
+    
 - 💬 Ask me about anything related to **AI, ML, Cloud Computing, API Security, and Open Source Contributions!**
 - 📫 Reach me at: **[LinkedIn](http://www.linkedin.com/in/aman-mogal-b7773b246)**
 ---This shows my commitment to consistent coding. A streak represents consecutive days of contributing to GitHub.
