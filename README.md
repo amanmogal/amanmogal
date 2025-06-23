@@ -19,7 +19,6 @@ I'm a Third-year Computer Engineering student with a burning passion for bridgin
     
 - 💬 Ask me about anything related to **AI, ML, Cloud Computing, API Security, and Open Source Contributions!**
 - 📫 Reach me at: **[LinkedIn](http://www.linkedin.com/in/aman-mogal-b7773b246)**
----This shows my commitment to consistent coding. A streak represents consecutive days of contributing to GitHub.
 
 
 ![alt text](https://github-readme-streak-stats.herokuapp.com?user=amanmogal&theme=radical&fire=F05F40&ring=FB8C00)
