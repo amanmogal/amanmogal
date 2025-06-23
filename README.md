@@ -4,7 +4,7 @@
 
 I'm a Third-year Computer Engineering student with a burning passion for bridging the gap between AI, Cloud Technologies, and secure application development. I thrive on building, learning, and contributing to the open-source community.  I'm on a mission to become a Software Engineer, leveraging cutting-edge technologies to create impactful solutions.
 
-- 🔭 I'm currently working on **SafeScape**: A smart emergency app focused on cloud security and compliance monitoring. Think proactive defense against cloud vulnerabilities! 🛡️
+
 - 🌱 I'm currently diving deep into **ML, Kubernetes, AI, and Cloud Native Applications**. Constantly expanding my knowledge in these rapidly evolving fields. 📚
 - 👯 I'm looking to collaborate on projects involving:
     - **AI / ML**:  🤖 Machine learning models, deep learning, and AI-powered applications.
