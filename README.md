@@ -1,8 +1,8 @@
 # Hi there, I'm Aman Mogal! 👋
 
-## 🚀 About Me: The Cloud-Native AI Enthusiast
+## About Me: The Cloud-Native AI Enthusiast
 
-I'm a Third-year Computer Engineering student with a burning passion for bridging the gap between AI, Cloud Technologies, and secure application development. I thrive on building, learning, and contributing to the open-source community.  I'm on a mission to become a Software Engineer, leveraging cutting-edge technologies to create impactful solutions.
+I'm a final-year Computer Engineering student with a burning passion for bridging the gap between AI, Cloud Technologies, and secure application development. I thrive on building, learning, and contributing to the open-source community.  I'm on a mission to become a Software Engineer, leveraging cutting-edge technologies to create impactful solutions.
 
 
 - 🌱 I'm currently diving deep into **ML, Kubernetes, AI, and Cloud Native Applications**. Constantly expanding my knowledge in these rapidly evolving fields. 📚
