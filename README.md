@@ -5,17 +5,17 @@
 I'm a final-year Computer Engineering student with a burning passion for bridging the gap between AI, Cloud Technologies, and secure application development. I thrive on building, learning, and contributing to the open-source community.  I'm on a mission to become a Software Engineer, leveraging cutting-edge technologies to create impactful solutions.
 
 
-- 🌱 I'm currently diving deep into **ML, Kubernetes, AI, and Cloud Native Applications**. Constantly expanding my knowledge in these rapidly evolving fields. 📚
+- 🌱 I'm currently diving deep into **AI,Devops, Agentic Ai and Cloud Native Applications**. Constantly expanding my knowledge in these rapidly evolving fields. 📚
 - 👯 I'm looking to collaborate on projects involving:
     - **AI / ML**:  🤖 Machine learning models, deep learning, and AI-powered applications.
     - **Cloud Computing**: ☁️  Serverless, containerization, and cloud-native architectures.
     - **Open Source**:  🤝  Giving back to the community and working on collaborative projects.
 - 🤖 I'm an active **Open Source Contributor**, particularly within the **Meshery community**! (Check out Meshery:  [<img src="https://docs.meshery.io/assets/img/meshery/icon-only/meshery-logo-light.svg" width="20" height="20"> Meshery](https://meshery.io/))
-- 💡 My key areas of interest include: **AI, Cloud Technologies, API Security, and Kubernetes**.
+- 💡 My key areas of interest include: **AI, Cloud Technologies, RL,MLops and Kubernetes**.
 - 🎓 Part of Communities**
     - **Postman Community**
     - **FOSS Community**
-    - **Microsoft Learn Student Ambassadors**  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Student_Partner_logo.svg/1280px-Microsoft_Student_Partner_logo.svg.png" width="30">
+    - **Localdev**
     
 - 💬 Ask me about anything related to **AI, ML, Cloud Computing, API Security, and Open Source Contributions!**
 - 📫 Reach me at: **[LinkedIn](http://www.linkedin.com/in/aman-mogal-b7773b246)**
