@@ -1,25 +1,60 @@
-# Hi there, I'm Aman Mogal! 👋
+ Hey, I'm Aman
 
-## About Me: The Cloud-Native AI Enthusiast
+ AI Engineer |  Cloud & ML Enthusiast |  Freelancer & SaaS Builder |  Community Educator  
 
-I'm a final-year Computer Engineering student with a burning passion for bridging the gap between AI, Cloud Technologies, and secure application development. I thrive on building, learning, and contributing to the open-source community.  I'm on a mission to become a Software Engineer, leveraging cutting-edge technologies to create impactful solutions.
+---
 
+##  About Me  
 
-- 🌱 I'm currently diving deep into **AI,Devops, Agentic Ai and Cloud Native Applications**. Constantly expanding my knowledge in these rapidly evolving fields. 📚
-- 👯 I'm looking to collaborate on projects involving:
-    - **AI / ML**:  🤖 Machine learning models, deep learning, and AI-powered applications.
-    - **Cloud Computing**: ☁️  Serverless, containerization, and cloud-native architectures.
-    - **Open Source**:  🤝  Giving back to the community and working on collaborative projects.
-- 🤖 I'm an active **Open Source Contributor**, particularly within the **Meshery community**! (Check out Meshery:  [<img src="https://docs.meshery.io/assets/img/meshery/icon-only/meshery-logo-light.svg" width="20" height="20"> Meshery](https://meshery.io/))
-- 💡 My key areas of interest include: **AI, Cloud Technologies, RL,MLops and Kubernetes**.
-- 🎓 Part of Communities**
-    - **Postman Community**
-    - **FOSS Community**
-    - **Localdev**
-    
-- 💬 Ask me about anything related to **AI, ML, Cloud Computing, API Security, and Open Source Contributions!**
-- 📫 Reach me at: **[LinkedIn](http://www.linkedin.com/in/aman-mogal-b7773b246)**
+-  I work as a **Freelance engineer**, building real-world applications.
+-  Founder Nova and localDev
+-  Freelance project: **AppleSerialOCR** – a system to process & extract structured data from Apple product serials.  
+-  Currently building **Nova** – a SaaS for **agentic AI applications**.  
+-  Internal work with **Localdev**:  
+  * Custom fine-tuned, self-hosted models  
+  * RAG (Retrieval Augmented Generation) systems for internal teams  
+-  Hands-on with **LangGraph, LangSmith, agentic frameworks (ADK, etc.)**, and deploying production-grade AI apps.  
+-  I also love **teaching and playing ** → [My recent MCP session slides](https://docs.google.com/presentation/d/1JHRDDxzW7aAGEFKNC01wGMKGyp2j9AwtTDlbxOyZK20/edit?usp=sharing).  
 
+---
+
+## 🌍 Community & Impact  
+
+- 📌 **Postman Community Pune Representative** – organizing meetups & API sessions.  
+- 🌐 Part of **Microsoft Learn Student Ambassadors, GDG, FOSS**, and local tech clubs.  
+- ⚡ Love to host hackathons, workshops & talks around **AI, APIs, and cloud-native systems**.  
+- 🤝 Collaborated with communities like **WeMakeDevs** to grow developer ecosystems.  
+
+---
+
+## ⚡ Tech Stack & Focus Areas  
+
+- **AI/ML & Agentic Systems:** Langgraph, LangSmith, ADK, RAG, fine-tuning, MCP  
+- **Frameworks:**Node.js, FastAPI,Flask,Express.js
+- **Cloud & Infra:** Google Cloud (Vertex AI, Cloud Run, Functions), Firebase, Kubernetes, Docker  
+- **Databases:** Firestore, PostgreSQL, MongoDB  
+- **Other:** API Security, OCR, Devops
+
+---
+
+## 🌱 What I'm Up To  
+
+- 🚀 Scaling **Nova** as a SaaS platform for agentic AI apps.  
+- 🧾 Delivering **freelance projects**.  
+- 🔍 Experimenting with **self-hosted models + RAG** for internal productivity tools.  
+- 🎤 Teaching & mentoring developers about **MCP, agentic AI frameworks, and AI × Cloud systems**.  
+
+---
+
+## 📬 Let’s Connect!  
+
+- 💼 [LinkedIn](http://www.linkedin.com/in/aman-mogal-b7773b246)  
+- 🌐 [Nova](https://nova-agent.tech/)  
+- 🐦 Twitter/X: [@aman_codes](#)  
+
+---
+
+⭐️ _“AI is not just about building models — it’s about building intelligent systems that people can actually use.”_
 
 ![alt text](https://github-readme-streak-stats.herokuapp.com?user=amanmogal&theme=radical&fire=F05F40&ring=FB8C00)
 
@@ -81,11 +116,3 @@ Here's a breakdown of the technologies I work with regularly, categorized for cl
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your_twitter_handle)  <!-- Use the new X logo -->
 <!-- Consider adding your email as well, if you're comfortable -->
 
----
-
-### 🎯 Fun Fact
-
-💡 "Code is like humor. When you have to explain it, it’s bad." 😆 ... But hopefully, my README is self-explanatory! 😉
-<!-- Use single backticks (`) to make this a code block to prevent Jekyll interpretation -->
-
-<!-- Use single backticks (`) to make this a code block to prevent Jekyll interpretation -->
