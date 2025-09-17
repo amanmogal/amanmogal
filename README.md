@@ -63,12 +63,6 @@
 These stats dynamically update, showcasing my activity and contributions on GitHub. They provide a quick snapshot of my coding habits and language preferences.
 
 
-
-### 🔥 Streak Stats: Keeping the Fire Burning
- ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanmogal&show_icons=true&theme=radical&count_private=true)true)
-
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmogal&layout=compact&theme=radical&langs_cou)
-
 ### ⚡ Activity Graph: A Visual History
 
 ![alt text](https://github-readme-activity-graph.vercel.app/graph?username=amanmogal&theme=react-dark&bg_color=282C34&color)
