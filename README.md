@@ -1,5 +1,4 @@
- Hey, I'm [![Aman](aman-mogal-me.vercel.app)](aman-mogal-me.vercel.app)
-
+ Hey, I'm [![Aman(https://aman-mogal-me.vercel.app/)](https://aman-mogal-me.vercel.app/)
  AI Engineer |  Cloud & ML Enthusiast |  Freelancer & SaaS Builder |  Community Educator  
 
 ---
