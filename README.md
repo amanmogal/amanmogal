@@ -5,8 +5,7 @@
 
 ##  About Me  
 
--  I work as a **Freelance engineer**, building real-world applications.
--  Founder Nova and localDev
+-  Founder at localDev
 -  Freelance project: **AppleSerialOCR** – a system to process & extract structured data from Apple product serials.  
 -  Currently building **Nova** – a SaaS for **agentic AI applications**.  
 -  Internal work with **Localdev**:  
