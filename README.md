@@ -5,13 +5,9 @@
 
 ##  About Me  
 
--  Founder at localDev
--  Freelance project: **AppleSerialOCR** – a system to process & extract structured data from Apple product serials.  
--  Currently building **Nova** – a SaaS for **agentic AI applications**.  
--  Internal work with **Localdev**:  
-  * Custom fine-tuned, self-hosted models  
-  * RAG (Retrieval Augmented Generation) systems for internal teams  
--  Hands-on with **LangGraph, LangSmith, agentic frameworks (ADK, etc.)**, and deploying production-grade AI apps.  
+-  Founder at localDev-builder space  
+-  Currently building **Flow studio & Aegis**.    
+-  AI dev and indie cracked builder
 -  I also love **teaching and playing ** → [My recent MCP session slides](https://docs.google.com/presentation/d/1JHRDDxzW7aAGEFKNC01wGMKGyp2j9AwtTDlbxOyZK20/edit?usp=sharing).  
 
 ---
