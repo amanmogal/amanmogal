@@ -13,10 +13,8 @@
 ---
 
 ## 🌍 Community & Impact  
-
-- 📌 **Postman Community Pune Representative** – organizing meetups & API sessions.  
-- 🌐 Part of **Microsoft Learn Student Ambassadors, GDG, FOSS**, and local tech clubs.  
-- ⚡ Love to host hackathons, workshops & talks around **AI, APIs, and cloud-native systems**.  
+ 
+- ⚡ Love to host hackathons, workshops & talks around **AI and cloud-native systems**.  
 - 🤝 Collaborated with communities like **WeMakeDevs** to grow developer ecosystems.  
 
 ---
@@ -26,16 +24,14 @@
 - **AI/ML & Agentic Systems:** Langgraph, LangSmith, ADK, RAG, fine-tuning, MCP  
 - **Frameworks:**Node.js, FastAPI,Flask,Express.js
 - **Cloud & Infra:** Google Cloud (Vertex AI, Cloud Run, Functions), Firebase, Kubernetes, Docker  
-- **Databases:** Firestore, PostgreSQL, MongoDB  
-- **Other:** API Security, OCR, Devops
+- **Databases:**PostgreSQL, MongoDB  
 
 ---
 
 ## 🌱 What I'm Up To  
 
-- 🚀 Scaling **Nova** as a SaaS platform for agentic AI apps.  
+- 🚀 Scaling **Flowclaw** as a ai workforce for teams  
 - 🧾 Delivering **freelance projects**.  
-- 🔍 Experimenting with **self-hosted models + RAG** for internal productivity tools.  
 - 🎤 Teaching & mentoring developers about **MCP, agentic AI frameworks, and AI × Cloud systems**.  
 
 ---
