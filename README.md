@@ -5,8 +5,7 @@
 
 ##  About Me  
 
--  Founder at localDev-builder space  
--  Currently building **Flow studio & Aegis**.    
+-  Founder at Fluxai  
 -  AI dev and indie cracked builder
 -  I also love **teaching and playing ** → [My recent MCP session slides](https://docs.google.com/presentation/d/1JHRDDxzW7aAGEFKNC01wGMKGyp2j9AwtTDlbxOyZK20/edit?usp=sharing).  
 
