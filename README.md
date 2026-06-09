@@ -7,7 +7,8 @@
 
 -  Founder at Fluxai  
 -  AI dev and indie cracked builder
--  I also love **teaching and playing ** → [My recent MCP session slides](https://docs.google.com/presentation/d/1JHRDDxzW7aAGEFKNC01wGMKGyp2j9AwtTDlbxOyZK20/edit?usp=sharing).  
+-  OpenAI Codex ambassador and public speaker
+(https://docs.google.com/presentation/d/1JHRDDxzW7aAGEFKNC01wGMKGyp2j9AwtTDlbxOyZK20/edit?usp=sharing).  
 
 ## 📬 Let’s Connect!  
 
