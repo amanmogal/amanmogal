@@ -9,36 +9,9 @@
 -  AI dev and indie cracked builder
 -  I also love **teaching and playing ** → [My recent MCP session slides](https://docs.google.com/presentation/d/1JHRDDxzW7aAGEFKNC01wGMKGyp2j9AwtTDlbxOyZK20/edit?usp=sharing).  
 
----
-
-## 🌍 Community & Impact  
- 
-- ⚡ Love to host hackathons, workshops & talks around **AI and cloud-native systems**.  
-- 🤝 Collaborated with communities like **WeMakeDevs** to grow developer ecosystems.  
-
----
-
-## ⚡ Tech Stack & Focus Areas  
-
-- **AI/ML & Agentic Systems:** Langgraph, LangSmith, ADK, RAG, fine-tuning, MCP  
-- **Frameworks:**Node.js, FastAPI,Flask,Express.js
-- **Cloud & Infra:** Google Cloud (Vertex AI, Cloud Run, Functions), Firebase, Kubernetes, Docker  
-- **Databases:**PostgreSQL, MongoDB  
-
----
-
-## 🌱 What I'm Up To  
-
-- 🚀 Scaling **Flowclaw** as a ai workforce for teams  
-- 🧾 Delivering **freelance projects**.  
-- 🎤 Teaching & mentoring developers about **MCP, agentic AI frameworks, and AI × Cloud systems**.  
-
----
-
 ## 📬 Let’s Connect!  
 
 - 💼 [LinkedIn](http://www.linkedin.com/in/aman-mogal-b7773b246)  
-- 🌐 [Nova](https://nova-agent.tech/)  
 - 🐦 Twitter/X: [@aman_codes](#)  
 
 ---
