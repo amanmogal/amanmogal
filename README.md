@@ -13,7 +13,7 @@
 ## 📬 Let’s Connect!  
 
 - 💼 [LinkedIn](http://www.linkedin.com/in/aman-mogal-b7773b246)  
-- 🐦 Twitter/X: [@aman_codes](#)  
+- 🐦 Twitter/X:(https://x.com/Aman25m)  
 
 ---
 
