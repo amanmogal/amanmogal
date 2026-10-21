@@ -1,4 +1,4 @@
- Hey, I'm [![Aman]](https://aman-mogal-me.vercel.app/) 
+ Hey, I'm Aman
 ---
 
 ##  About Me  
