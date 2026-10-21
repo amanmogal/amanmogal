@@ -18,10 +18,6 @@
 
 ![alt text](https://github-readme-streak-stats.herokuapp.com?user=amanmogal&theme=radical&fire=F05F40&ring=FB8C00)
 
-## 📊 GitHub Stats & Contributions: The Numbers Don't Lie
-
-These stats dynamically update, showcasing my activity and contributions on GitHub. They provide a quick snapshot of my coding habits and language preferences.
-
 
 ### ⚡ Activity Graph: A Visual History
 
